@@ -1,4 +1,4 @@
-# Local Government Area (LGA) Summary
+### Local Government Area (LGA) Summary
 
 This section provides a high-level overview of key metrics for the local government area. A DataFrame will be created with the following metrics:
 
@@ -13,7 +13,7 @@ This section provides a high-level overview of key metrics for the local governm
 
 ---
 
-# School Summary
+### School Summary
 
 This section summarizes key metrics for each school in a DataFrame, including:
 
@@ -30,25 +30,25 @@ This section summarizes key metrics for each school in a DataFrame, including:
 
 ---
 
-# Highest-Performing Schools (by % Overall Passing)
+### Highest-Performing Schools (by % Overall Passing)
 
 Sort the schools by % Overall Passing in descending order to display the top 5 schools. The results will be saved in a DataFrame named `top_schools`.
 
 ---
 
-# Lowest-Performing Schools (by % Overall Passing)
+### Lowest-Performing Schools (by % Overall Passing)
 
 Sort the schools by % Overall Passing in ascending order to display the bottom 5 schools. The results will be saved in a DataFrame named `bottom_schools`.
 
 ---
 
-# Maths Scores by Year
+### Maths Scores by Year
 
 Create a DataFrame listing the average maths score for students in each year level (9, 10, 11, 12) at each school.
 
 ---
 
-# Reading Scores by Year
+### Reading Scores by Year
 
 Create a DataFrame listing the average reading score for students in each year level (9, 10, 11, 12) at each school.
 
