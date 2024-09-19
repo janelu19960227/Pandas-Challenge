@@ -54,6 +54,6 @@ Create a DataFrame listing the average reading score for students in each year l
 
 ---
 
-# Scores by School Spending
+### Scores by School Spending
 
 Develop a table that categorizes school performance based on average spending per student. Use the provided code to create four bins with appropriate cutoff values for grouping school spending.
